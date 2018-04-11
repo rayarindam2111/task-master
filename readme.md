@@ -1,84 +1,73 @@
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/kkGpRc/Task_Master.png" alt="Task_Master" border="10"></a>
+<img src="https://image.ibb.co/kkGpRc/Task_Master.png" alt="Task Master" border="10">
 
-<h1>Usage</h1>
- This is an online goal app where number of goals and tasks to be done are written down and includes various additional features. 
+# Usage
+This is an online goal setting app where the number of goals and tasks to be done are written down and includes various additional features. 
 
-<h1>Background</h1>
-  TaskMaster is an opensource software created with the help of Udacity scholars In Front End Web Development . This software is made with with a hope and a vision that traditional way of setting everyday TO-DO's and everyday goals should now be replaced with a more advanced version for the modern digitised age.
+# Background
+TaskMaster is an opensource software created with the help of Udacity scholars in front end web development. This software is made with a hope and a vision that the traditional way of setting everyday TO-DO's and goals should be replaced with a more advanced version for the modern digitized era.
   
-  <h1>Key Features</h1>
-  
-  
-  <h4>Probable Front-End-Work</h4>
-  
-   - Home Page/Landing page setup . 
-   - Activating and linking the different sites from the home page. 
-   - Linking the different additional pages to the homepage.
-   - Adding more tabs in the additional Navigation Bar .
-   - Making the layout of different additional pages of the home page.
-   - Beautifying the <user_home_page> [Refer to pg:3 of the pdf](After some one has logged in) after backend work provides a basic              structure.
-   - Beautifying pages in best possible ways and all visual appearence.
-   - Designing the alarm feature before with each popup.(Dont know??backend or front end or both)
-   - Upcoming goal deadlines and important goals feed.
-   
-  <h4>Probable Back End Work</h4>
-  
-  - Getting the Contact me Form in the landing(home) page to actually be able to contact someone.
-  - Getting the login with google to actually work.
-  - Designing a sync Feature with your Gmail account .So that this app can be across all devices.
-  - Attaching pictures with your goals.(Don't know , backend, frontend or both)
-  - Prioritising your goals button.(Don't know , backend, frontend or both)
-  - Using different colors for different priority of goals.(Don't know , backend, frontend or both)
-
-<h1> In detail Features</h1>
+# Key Features
 
 
-<b>HOMEPAGE</b> - This page contains three sections viz. Home, Introduction & Why TaskMaster? on the navigation bar and clicking any one of them would enable a smooth scrolling down the home page. These three sections fit into the first page of the web app! As stated in the mockup pdf there should be a ‘Tick’ in the Home which on clicked starts an animation explaining TaskMaster. Below this, a button entitled ‘Get Started’ enables a user to visit the Login/Sign-up page. Lastly, on the footer various media links Quora, LinkedIn can be provided. 
-Other modifications are open-ended and suggestions are needed for improving UI/UX!
+## Probable Front End Work
 
-<b>LOGIN / SIGNUP PAGE</b> - This page contains the login (for the existing users) or sign-up (for the new users) option. This form uses Gmail account for both the purposes! There is also a button to share about this app on facebook. It includes a live background with video or canvas elements. 
+ - Home page/landing page setup 
+ - Activating and linking the different sites from the home page
+ - Linking the different additional pages to the homepage
+ - Adding more tabs in the additional navigation bar
+ - Making the layout of different additional pages
+ - Beautifying pages in the best way possible and with special emphasis on visual appearance
+ - Beautifying the <user_home_page>(after someone has logged in)[refer to pg. 3 of the pdf] after backend work has been completed
+   provides a basic structure
+ - Designing the alarm feature (along with popups)
+ - Implementing the notification of upcoming goal deadlines and important goals feed
+
+## Probable Back End Work
+
+- Getting the Contact Me form in the landing(home) page to actually be able to contact someone
+- Getting the Login with Google feature to actually work
+- Designing a sync feature with your Gmail account
+- Attaching pictures with your goals
+- Devise a system to prioritize your goals
+- Using different colors for different priority of goals
+
+# Features in detail
 
 
-<b>USER ACCOUNT PAGE</b> - This page basically would be divided into three columns with a lot of interactivity. The leftmost column will include the list of upcoming goal along with deadlines. The rightmost column includes the list of prioritizing goal which can be displayed as a pop-up to the browser whenever a user opens up his/her browser. The middle column consists of a section for creating the goal itself with several buttons as follows - 
+<b>HOMEPAGE</b> - This page contains three sections viz. Home, Introduction & Why TaskMaster? on the navigation bar and clicking any one of them would trigger a smooth scrolling down the home page. These three sections fit into the first page of the web app. As stated in the mockup pdf there should be a ‘Tick’ in Home which when clicked on, starts an animation explaining what TaskMaster is all about. Below this, a button entitled ‘Get Started’ enables a user to visit the Login/Sign-up page. Lastly, on the footer various media links like Quora, LinkedIn can be provided. 
+Other modifications can be open-ended and suggestions are welcome for improving the UI/UX!
+
+<b>LOGIN / SIGNUP PAGE</b> - This page contains the login (for the existing users) or sign-up (for the new users) option. Signing in via Google is also supported. There is also a button to share about this app on Facebook. It includes a live background with video or canvas elements. 
+
+
+<b>USER DASHBOARD</b> - This page basically would be divided into three columns with a lot of interactivity. The leftmost column will include the list of upcoming goals along with deadlines. The rightmost column includes the list of prioritized goals which can be displayed as a pop-up to the browser whenever a user opens up his/her browser. The middle column consists of a section for creating the goal itself with several buttons as follows:
  
-    Calendar Tool - This tool will set the date on which the remainder will come up as a popup.
+    Calendar Tool - This tool will set the date on which the reminder will come up as a popup.
 
     Alarm Popup - This tool will set the required alarm (if any) & the time of the alarm.
 
-     Goal Priority - This tool will set the priority of the goal by assigning it a number which automatically updates the list in the        rightmost column.
+    Goal Priority - This tool will set the priority of the goal by assigning it a number which automatically updates the list in the
+    rightmost column.
 
-     Flash Button - This tool enables a pop-up of prioritizing goal whenever a user opens up his/her browser.
+    Flash Button - This tool enables a pop-up of prioritizing goal whenever a user opens up his/her browser.
 
-     Add Media - This tool enables a user to add any media files like images, music, videos attached with the goal when creating it!
+    Add Media - This tool enables a user to add any media files like images, music, videos attached with the goal when creating it.
 
-     Create Goal - This tool will finally create the goal and the page would be updated.
+    Create Goal - This tool will finally create the goal and the page would be updated.
      
- Only the first page would include a Contact Us attachment which can be accessed by clicking on it as shown in the mockup pdf.
+Only the first page would include a Contact Us section which can be accessed by clicking on it as shown in the mockup pdf.
 
 
-<h1>New to this? Maybe this can help.</h1> 
+# New to this? Maybe this can help
   
-   - <a href="https://gist.github.com/Rajrox97/02e3b2e3c6ef8a356106b65ad02e183a">Getting the hang of the code.</a>
-   - <a href="https://gist.github.com/Rajrox97/b028a7eff0ea0c0225b7d19b54a2adf6">If you are new, break things down and try and edit & undertsand copy pasted code.</a>
+   - <a href="https://gist.github.com/Rajrox97/02e3b2e3c6ef8a356106b65ad02e183a">Getting the hang of the code</a>
+   - <a href="https://gist.github.com/Rajrox97/b028a7eff0ea0c0225b7d19b54a2adf6">If you are new at this, break things down, and try to understand and modify code obtained from various sources</a>
    - <a href="https://gist.github.com/Rajrox97/af2508ec2523d85bc43f1eb080ce5985">MUST READ THIS BEFORE YOU COMMIT</a>
-   - Don't contact moderators if you see an anomaly in the code and if you think some function is not working properly.Just raise an          issue on github. That way more and more contributors can see that and issue can be resolved faster.
-    
+   - Don't contact moderators if you see an anomaly in the code and if you think some function is not working properly. Just raise an
+     issue on github. That way more and more contributors can see that and the issue can be resolved faster   
  
-   - REFER TO THE PDF FOR A ROUGH IDEA ON THE PROJECT.
+   - REFER TO THE PDF FOR A ROUGH IDEA ON THE PROJECT
    
-# Best practices for contributition
-
-Anyone can contribute to our open source project so feel free to do it. But make sure that you follow best practices which we have:
-
-1. Make sure that git commit message is meaningful and easy to understand
-2. Each PR must solve one issue mentioned in our issues page. In case if your PR is solving any bug and that bug is not mentioned in issues page, then open one issue explaning about the bug and then make PR with reference to that issue.
-3. While solving any issue you must make one comment saying that you are working on this issue so that we can avoid any conflicts between 2 work.
-4. While making any PR make sure you reference your issue id (#1, #2 etc) in commit message or title.
-4. Make sure you squash your commit if there are more than 2 commits in your Pull Request. In case of difficulties feel free to ask for any assistance.
-5. While making any Pull Request for UI make sure you attach one screenshot showing the final result or the bug which you have solved.
-6. While creating any issue make sure you mention all the procedure required to generate that bug/error and have one brief description about that bug.
-
-   -The TaskMaster Team .
-
-<h2>Though we have both Bootstrap and Materialize, try and contribute in Materialize :) It won't take much time to learn</h2>
-Depending on response , we will fix A framework anytime soon. :D
+## Refer to <a href="CONTRIBUTING.MD">CONTRIBUTING.MD</a> for more information on how to contribute to this project!
+<br>
+<b>The TaskMaster Team</b>
