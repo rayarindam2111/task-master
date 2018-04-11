@@ -12,7 +12,7 @@
   - <a href='https://www.w3schools.com/css/default.asp'>CSS3</a>
   - <a href='http://materializecss.com/'>Materialize</a>
   - <a href='https://www.w3schools.com/js/default.asp'>ES6(JavaScript)</a> 
-  - <a href='https://www.w3schools.com/js/default.asp'>PHP</a> 
+  - <a href='https://www.w3schools.com/php/default.asp'>PHP</a> 
   - <a href='https://www.w3schools.com/sql/sql_ref_mysql.asp'>MySQL</a> 
   
 ## Best practices for contribution
