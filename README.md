@@ -68,6 +68,6 @@ Only the first page would include a Contact Us section which can be accessed by 
  
    - REFER TO THE PDF FOR A ROUGH IDEA ON THE PROJECT
    
-## Refer to <a href="CONTRIBUTING.MD">CONTRIBUTING.MD</a> for more information on how to contribute to this project!
+### Refer to <a href="CONTRIBUTING.md">CONTRIBUTING.MD</a> for more information on how to contribute to this project!
 <br>
 <b>The TaskMaster Team</b>
