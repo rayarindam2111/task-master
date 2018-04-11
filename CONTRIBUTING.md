@@ -7,19 +7,19 @@
 6. Send a Pull Request
 7. Your PR's will be reviewed and merged if found to be satisfactory
 
-## Technologies used
-  - Materialize
-  - HTML5
-  - CSS3
-  - ES6(JavaScript)
-  - PHP
-  - MySQL
-
+## Technologies used (simple tutorials provided as links)
+  - <a href='https://www.w3schools.com/html/default.asp'>HTML5</a>
+  - <a href='https://www.w3schools.com/css/default.asp'>CSS3</a>
+  - <a href='http://materializecss.com/'>Materialize</a>
+  - <a href='https://www.w3schools.com/js/default.asp'>ES6(JavaScript)</a> 
+  - <a href='https://www.w3schools.com/js/default.asp'>PHP</a> 
+  - <a href='https://www.w3schools.com/sql/sql_ref_mysql.asp'>MySQL</a> 
+  
 ## Best practices for contribution
 
 Anyone can contribute to our open source project, so feel free to do it. But make sure that you follow certain practices which include:
 
-1. Make sure that git commit messages are meaningful, easy to understand and extremely specific: for e.g. 'Fixed Submit button not working properly on the user dashboard page'
+1. Make sure that git commit messages are meaningful, easy to understand and extremely specific: for e.g. 'Fixed Submit button not working properly on the user dashboard page'.
 2. Each Pull Request(PR) must solve one issue mentioned in our issues page. In case your PR is solving any bug that is not mentioned in the issues page, then open one issue explaining the bug and then make a PR with reference to that issue.
 3. While solving an issue you must make one comment saying that you are working on that issue so that we can avoid any conflict.
 4. While making a PR make sure you reference your issue id (#1, #2 etc.) in the commit message or title.
